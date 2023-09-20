@@ -33,8 +33,8 @@ Feel free to reach out to me through any of these platforms:
 - **Twitter**<br>
   [twitter.com/geras](https://twitter.com/Gerasgheey)
  <br><br>
-- **Email**:<br> geraswastaken.it@gmail.com<br><br>
-
+- **Email**<br> geraswastaken.it@gmail.com<br><br>
+- **Discord**<br> __Geras <br><br>
 
 
 
