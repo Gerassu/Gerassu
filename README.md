@@ -3,7 +3,7 @@
 Hey there! I'm Geras, a 20-year-old freelance IT enthusiast who is passionate about coding and building cool projects. I specialize in JavaScript, Python, Java, Vue.js, and TypeScript.
 
 ## 🚀 Quick Links
-**Website** : [Gerasflix](gerasflix.com) <br><br>
+**Website** : [Gerasflix](https://gerasflix.com/) <br><br>
 **Contact me via Email** : geraswastaken.it@gmail.com
 
 ## 🔧 Languages, IDEs, Etc...
@@ -20,16 +20,16 @@ Here are my most used Programs, Frameworks, IDEs and Languages:
 
 ## 🌟 Featured Projects
 
-**Project 1:** [_PerlinIMG - Perlin Noise Generator_]()<br><br>
+**Project 1:** [_PerlinIMG - Perlin Noise Generator_](https://github.com/Gerassu/perlin-img)<br><br>
 Generate Perlin noise and export it as PNG images. This project requires Node.js version 18.6.1 or higher and npm (packaged with node). Make sure to install the 'sharp' package.
 
-**Project 2:** [_HM-perlin - Heatmap Generator_]()<br><br>
+**Project 2:** [_HM-perlin - Heatmap Generator_](https://github.com/Gerassu/HM-perlin)<br><br>
 Generate heatmaps from PNG files. Dependencies include 'canvas' and 'fs'.
 
 ## 🌐 Let's Connect
 Feel free to reach out to me through any of these platforms:
 
-**Website** <br>[gerasflix IT](gerasflix.it) or [gerasflix COM](gerasflix.com)<br><br>
+**Website** <br>[gerasflix IT](https://gerasflix.it/) or [gerasflix COM](https://gerasflix.com/)<br><br>
 **Twitter**<br>
   [twitter.com/geras](https://twitter.com/Gerasgheey)
  <br><br>
