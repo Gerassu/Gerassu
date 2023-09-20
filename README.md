@@ -12,11 +12,11 @@ Here are my most used Programs, Frameworks, IDEs and Languages:
 
 <br>
 
-- **Languages**: JavaScript, Python, Java, TypeScript<br><br>
+- **Languages**: JavaScript, Python, Java, TypeScript, Processing<br><br>
 - **Frontend**: Vue.js, HTML, CSS;<br><br>
 - **Backend**: Node.js, Express, Electron;<br><br>
 - **Databases**: MongoDB, PostgreSQL;<br><br>
-- **IDEs**: Visual Studio Code, IntelliJ IDEA;<br><br>
+- **IDEs**: Visual Studio Code, Visual Studio, Processing;<br><br>
 
 ## 🌟 Featured Projects
 
