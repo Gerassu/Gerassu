@@ -1,6 +1,6 @@
 
 ## About Me
-Hey there! I'm Geras, a 20-year-old freelance IT enthusiast who is passionate about coding and building cool projects. I specialize in JavaScript, Python, Java, Vue.js, and TypeScript.
+Hey there! I'm Geras, a freelance IT enthusiast who is passionate about coding and building cool projects. I specialize in JavaScript, Python, Java, Vue.js, and TypeScript.
 
 ## 🚀 Quick Links
 **Website** : [Gerasflix](https://gerasflix.com/) <br><br>
