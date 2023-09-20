@@ -12,11 +12,11 @@ Here are my most used Programs, Frameworks, IDEs and Languages:
 
 <br>
 
-**Languages**: JavaScript, Python, Java, TypeScript<br><br>
-**Frontend**: Vue.js, HTML, CSS;<br><br>
-**Backend**: Node.js, Express, Electron;<br><br>
-**Databases**: MongoDB, PostgreSQL;<br><br>
-**IDEs**: Visual Studio Code, IntelliJ IDEA;<br><br>
+- **Languages**: JavaScript, Python, Java, TypeScript<br><br>
+- **Frontend**: Vue.js, HTML, CSS;<br><br>
+- **Backend**: Node.js, Express, Electron;<br><br>
+- **Databases**: MongoDB, PostgreSQL;<br><br>
+- **IDEs**: Visual Studio Code, IntelliJ IDEA;<br><br>
 
 ## 🌟 Featured Projects
 
@@ -29,11 +29,11 @@ Generate heatmaps from PNG files. Dependencies include 'canvas' and 'fs'.
 ## 🌐 Let's Connect
 Feel free to reach out to me through any of these platforms:
 
-**Website** <br>[gerasflix IT](http://gerasflix.it/) or [gerasflix COM](https://gerasflix.com/)<br><br>
-**Twitter**<br>
+- **Website** <br>[gerasflix IT](http://gerasflix.it/) or [gerasflix COM](https://gerasflix.com/)<br><br>
+- **Twitter**<br>
   [twitter.com/geras](https://twitter.com/Gerasgheey)
  <br><br>
-**Email**:<br> geraswastaken.it@gmail.com<br><br>
+- **Email**:<br> geraswastaken.it@gmail.com<br><br>
 
 
 
