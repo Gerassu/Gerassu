@@ -29,7 +29,7 @@ Generate heatmaps from PNG files. Dependencies include 'canvas' and 'fs'.
 ## 🌐 Let's Connect
 Feel free to reach out to me through any of these platforms:
 
-- **Website** <br>[gerasflix COM](https://gerasflix.com/)<br><br>
+- **Website** <br>[gerasflix](https://gerasflix.com/)<br><br>
 - **Twitter**<br>
   [twitter.com/geras](https://twitter.com/Gerasgheey)
  <br><br>
