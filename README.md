@@ -4,7 +4,7 @@ Hey there! I'm Alessandro, a freelance IT enthusiast who is passionate about cod
 I am currently learning towards being a Cloud Specialist! ☁☁☁
 
 ## 🚀 Quick Links
-**my Linkedin** : [Alessandro Petruzzelli](https://www.linkedin.com/in/alessandro-petruzzelli-699b13311/) <br><br>
+**My Linkedin** : [Alessandro Petruzzelli](https://www.linkedin.com/in/alessandro-petruzzelli-699b13311/) <br><br>
 **Contact me via Email** : geraswastaken.it@gmail.com 
 **or** alessandro.petruzzelli23@gmail.com
 
