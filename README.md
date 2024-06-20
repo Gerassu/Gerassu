@@ -5,8 +5,8 @@ I am currently learning towards being a Cloud Specialist! ☁☁☁
 
 ## 🚀 Quick Links
 **my Linkedin** : [Alessandro Petruzzelli](https://www.linkedin.com/in/alessandro-petruzzelli-699b13311/) <br><br>
-**Contact me via Email** : geraswastaken.it@gmail.com
-**or** : alessandro.petruzzelli23@gmail.com
+**Contact me via Email** : geraswastaken.it@gmail.com 
+**or** alessandro.petruzzelli23@gmail.com
 
 ## 🔧 Languages, IDEs, Etc...
 
@@ -31,9 +31,9 @@ Generate heatmaps from PNG files. Dependencies include 'canvas' and 'fs'.
 ## 🌐 Let's Connect
 Feel free to reach out to me through any of these platforms:
 
-- **Website** <br>[gerasflix](https://gerasflix.com/)<br><br>
+- **Linkedin** : [Alessandro Petruzzelli](https://www.linkedin.com/in/alessandro-petruzzelli-699b13311/) <br><br>
 - **Twitter**<br>
-  [twitter.com/geras](https://twitter.com/Gerasgheey)
+  [twitter.com/Geras](https://twitter.com/Gerasgheey)
  <br><br>
 - **Email**<br> geraswastaken.it@gmail.com<br><br>
 - **Discord**<br> __Geras <br><br>
