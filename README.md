@@ -15,10 +15,10 @@ Here are my most used Programs, Frameworks, IDEs and Languages:
 <br>
 
 - **Languages**: JavaScript, C++, Python, Java, TypeScript, Processing<br><br>
-- **Frontend**: Vue.js, HTML, CSS;<br><br>
-- **Backend**: Node.js, Express, Electron;<br><br>
+- **Frontend**: Vuejs, Nextjs, Angular, React;<br><br>
+- **Backend**: Nodejs, bun, C, Express, Electron;<br><br>
 - **Databases**: MongoDB, PostgreSQL;<br><br>
-- **IDEs**: Visual Studio Code, Visual Studio, Processing;<br><br>
+- **IDEs**: VSC, Visual Studio, Processing;<br><br>
 
 ## 🌟 Featured Projects
 
@@ -27,6 +27,9 @@ Generate Perlin noise and export it as PNG images. This project requires Node.js
 
 **Project 2:** [_HM-perlin - Heatmap Generator_](https://github.com/Gerassu/HM-perlin)<br><br>
 Generate heatmaps from PNG files. Dependencies include 'canvas' and 'fs'.
+
+**Project 3:** [TikTok Rizz Generator](https://github.com/Gerassu/tiktok-rizz-generator)<br><br>
+[**WIP**] Generate Tiktok Ready Videos Using Claude and ElevenLabs call, work in progress.
 
 ## 🌐 Let's Connect
 Feel free to reach out to me through any of these platforms:
