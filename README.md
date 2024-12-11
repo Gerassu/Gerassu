@@ -1,7 +1,6 @@
 
 ## About Me
 Hey there! I'm Alessandro, a freelance IT enthusiast who is passionate about coding and building cool projects. I specialize in JavaScript, Python, Java, Vue.js, and TypeScript.<br><br>
-I am currently learning towards being a Cloud Specialist! ☁☁☁
 
 ## 🚀 Quick Links
 **My Linkedin** : [Alessandro Petruzzelli](https://www.linkedin.com/in/alessandro-petruzzelli-699b13311/) <br><br>
